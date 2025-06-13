@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna-Bhatt-369
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in 
 - 🌱 I’m currently learning HTML and css
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me kb9291972@gmail.com

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Krishna-Bhatt-369
+- 👋 Hi, I’m Krishna Parshad Bhatt
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning HTML and css
+- 🌱 I’m currently learning HTML,css,Javascript,MySQL and PHP.
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me kb9291972@gmail.com
 - 😄 Pronouns: He/Him

@@ -182,31 +182,19 @@ A web development project from my learning journey.
 
 <div align="center">
 
-### `05 / github, but quietly`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Bhatt-369&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Bhatt-369&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=6" height="165" alt="Most used programming languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Krishna-Bhatt-369&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
-
-</div>
-
-<br>
+## 05 / github, but quietly
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Bhatt-369&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=the%20trail%20so%20far" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Bhatt-369&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" height="165" alt="Krishna's GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Bhatt-369&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165" alt="Krishna's most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Krishna-Bhatt-369&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=666666" alt="Krishna's GitHub contribution streak" />
 
 </div>
-
----
-
-<div align="center">
 
 ### `06 / outside the code`
 

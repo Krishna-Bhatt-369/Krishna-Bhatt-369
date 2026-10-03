@@ -1,11 +1,35 @@
-- 👋 Hi, I’m Krishna Parshad Bhatt
-- 👀 I’m interested in keeping your privacy safe.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me kb9291972@gmail.com
-- 😄 Pronouns: He/Him
+# 👋 Hey, I'm Krishna Parshad Bhatt
 
-<!---
-Krishna-Bhatt-369/Krishna-Bhatt-369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### BSc IT Student • Developer • Tech Enthusiast
+
+> Learning, building, breaking things, and figuring them out again.
+
+I'm a first-year **BSc IT student** from Nepal, currently exploring the world of programming, web development, networking, and technology.
+
+I'm still learning, still making mistakes, and still building — one project and one day at a time.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 BSc IT Student at **Techspire University**
+- 🐍 Currently working with **Python, HTML, CSS & JavaScript**
+- 🔥 Doing a **100 Days Coding Challenge** to build consistency
+- 🌐 Interested in **Web Development & Software Development**
+- 🎮 Gamer in my free time
+- 🎧 Music is usually playing somewhere in the background
+- 🧠 Currently learning more about programming, networking & databases
+- 🇳🇵 Based in Nepal
+
+---
+
+## 🚀 What I'm Learning
+
+```text
+Python          ███████░░░  Learning
+HTML            █████████░  Learning
+CSS             █████████░  Learning
+JavaScript      ████░░░░░░  Learning
+Git & GitHub    ██████░░░░  Learning
+Networking      █████░░░░░  Learning
+Databases       ████░░░░░░  Learning

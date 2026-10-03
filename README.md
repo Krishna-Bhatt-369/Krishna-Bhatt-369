@@ -1,210 +1,290 @@
-                    KRISHNA PARSHAD BHATT
-
-              BSc IT Student • Developer • Creator
-
-          ─────────────────────────────────────────
-
-                 learning things.
-                 building things.
-                 breaking things.
-                 starting again.
-
-          [ Python ] [ Web ] [ Git ] [ Networks ]
-
-                    ↓ scroll slowly ↓
-
-Then use an animated typing banner at the top:
-
-BSc IT Student → Developer → Tech Enthusiast → Still figuring it out.
-
-And sections that reveal your personality rather than just listing technologies.
-
-I can make you a complete animated GitHub profile README with:
-
-✨ animated typing header
-🌑 dark cinematic aesthetic
-🎞️ subtle animated GIF/SVG elements
-🧑‍💻 interactive-looking project section
-📈 GitHub contribution/stats section
-🎧 music/gaming personality section
-📚 current learning section
-🔗 clean social links
-🌀 animated footer
-📱 mobile-friendly layout
-no cheesy developer-template look
-
-And I can give you the 
-exact README.md code, ready to paste into your profile repository.
-
-If you want the animation to go further, we can also make a 
-custom animated SVG specifically for your profile rather than using the usual boring typing-banner templates.
-
-Give me the exact README.md code
-
-Yep bro. Here’s a ready-to-paste README.md with a cinematic animated look. It uses SVG/GIF-style embeds that GitHub can render without needing JavaScript.
-
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=KRISHNA%20PARSHAD%20BHATT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20IT%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:2a2a2a&text=KRISHNA%20PARSHAD%20BHATT&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=BSc%20IT%20Student%20%C2%B7%20Developer%20%C2%B7%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" alt="Krishna Parshad Bhatt cinematic header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Learning+things.;Building+things.;Breaking+things.;Fixing+things.;Starting+again." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=BBBBBB&center=true&vCenter=true&width=650&lines=learning+things.;building+things.;breaking+things.;figuring+things+out.;starting+again.;one+commit+at+a+time." alt="Animated typing introduction"/>
+
+<br>
+
+<sub>somewhere between curiosity, code, and way too many unfinished ideas.</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `01 / the current chapter`
+
+</div>
+
+I'm **Krishna** — a first-year BSc IT student at **Techspire University, Nepal**.
+
+I'm not here pretending I've already figured everything out.
+
+I'm learning by building, breaking, rebuilding, and occasionally wondering why the code worked five minutes ago.
+
+Right now, I'm exploring:
+
+```text
+Python          → logic, problem solving, automation
+HTML / CSS      → turning ideas into interfaces
+JavaScript      → making those interfaces actually do things
+Git / GitHub    → documenting the process
+Networking      → understanding what happens underneath
+Databases       → learning where everything gets stored
+```
+
+The goal isn't to look like an expert.
+
+**The goal is to become one — eventually.**
+
+---
+
+<div align="center">
+
+### `02 / the 100 day experiment`
+
+</div>
+
+> **100 days. Real commits. No pretending.**
+
+I'm using a 100 Days coding challenge to build something more valuable than a perfect-looking profile:
+
+**consistency.**
+
+The challenge mixes **Python, HTML, CSS and JavaScript**, with each day becoming another small piece of the trail.
+
+```text
+DAY 01 ──→ DAY 20 ──→ DAY 40 ──→ DAY 60 ──→ DAY 80 ──→ DAY 100
+   │          │           │           │           │           │
+ learn      struggle     build      repeat      improve     look back
+```
+
+Some days are clean.
+
+Some days are messy.
+
+Some days it's just one small commit.
+
+It still counts.
+
+<a href="https://github.com/Krishna-Bhatt-369/100-Days-of-Python">
+  <img src="https://img.shields.io/badge/100%20Days-Python-222222?style=flat-square&logo=python&logoColor=white" alt="100 Days of Python"/>
+</a>
+<a href="https://github.com/Krishna-Bhatt-369/100-Days-of-HTML-CSS-and-Javascript">
+  <img src="https://img.shields.io/badge/100%20Days-Web-222222?style=flat-square&logo=html5&logoColor=white" alt="100 Days of HTML CSS JavaScript"/>
+</a>
+
+---
+
+<div align="center">
+
+### `03 / things i've been building`
+
+<sub>not everything here is polished. that's kind of the point.</sub>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `100 Days of Python`
+
+A public record of learning Python one day at a time.
+
+**Focus:** Python · Problem Solving · Practice
+
+<a href="https://github.com/Krishna-Bhatt-369/100-Days-of-Python">→ explore repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `100 Days of HTML CSS JavaScript`
+
+A parallel learning journey focused on the web.
+
+**Focus:** HTML · CSS · JavaScript · Frontend
+
+<a href="https://github.com/Krishna-Bhatt-369/100-Days-of-HTML-CSS-and-Javascript">→ explore repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `AI-GAMES`
+
+One of the projects sitting at the intersection of programming and experimentation.
+
+**Focus:** Programming · Games · Experimentation
+
+<a href="https://github.com/Krishna-Bhatt-369/AI-GAMES">→ explore repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `Portfolio`
+
+My personal space on the web — built while figuring out what kind of developer I want to become.
+
+**Focus:** HTML · CSS · JavaScript · Design
+
+<a href="https://github.com/Krishna-Bhatt-369/Portfolio">→ explore repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### `omnifood-main`
+
+A web development project from my learning journey.
+
+**Focus:** HTML · CSS · Web Development
+
+<a href="https://github.com/Krishna-Bhatt-369/omnifood-main">→ explore repository</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `04 / current toolkit`
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mysql,vscode&theme=dark" alt="Python HTML CSS JavaScript Git GitHub MySQL and VS Code icons"/>
 
 <br><br>
 
-<a href="https://github.com/Krishna-Bhatt-369">
-<img src="https://komarev.com/ghpvc/?username=Krishna-Bhatt-369&label=PROFILE+VIEWS&color=161b22&style=for-the-badge" />
-</a>
+<sub>learning these — not claiming mastery.</sub>
 
 </div>
 
 ---
 
-# `whoami`
+<div align="center">
 
-```text
-Krishna Parshad Bhatt
+### `05 / github, but quietly`
 
-BSc IT Student
-Developer
-Tech Enthusiast
-Nepal
+<br>
 
-Currently:
-→ Learning
-→ Building
-→ Experimenting
-→ Trying not to break everything
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna-Bhatt-369&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics"/>
 
-I'm a first-year BSc IT student from Nepal exploring the world of programming and technology.
-
-I'm currently spending most of my time learning Python, HTML, CSS, JavaScript, Git, networking, and databases.
-
-I'm not trying to look like an expert.
-
-I'm here to document the process of becoming one.
-
-01 — CURRENTLY
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🐍  Python                                │
-│   🌐  HTML / CSS                            │
-│   ⚡  JavaScript                            │
-│   🔧  Git & GitHub                          │
-│   🌐  Networking                             │
-│   🗄️  Databases                             │
-│                                             │
-└─────────────────────────────────────────────┘
-100 Days of Code
-
-I'm currently working through a 100 Days coding challenge.
-
-The goal isn't perfection.
-
-The goal is consistency.
-
-Day 01  → Learn
-Day 02  → Practice
-Day 03  → Build
-Day 04  → Break something
-Day 05  → Fix it
-...
-Day 100 → Look back
-Repositories
-
-🐍 100 Days of Python
-→ https://github.com/Krishna-Bhatt-369/100-Days-of-Python
-
-🌐 100 Days of HTML, CSS & JavaScript
-→ https://github.com/Krishna-Bhatt-369/100-Days-of-HTML-CSS-and-Javascript
-
-02 — TECHNOLOGIES
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" /> </div> <br>
-Python          ████████░░  Learning
-HTML            █████████░  Comfortable
-CSS             ████████░░  Learning
-JavaScript      ████░░░░░░  Beginning
-Git / GitHub    ██████░░░░  Learning
-MySQL           ████░░░░░░  Learning
-Networking      ████░░░░░░  Learning
-03 — PROJECTS
-🎮 AI-GAMES
-
-Experiments with programming, games, and AI-related ideas.
-
-→ Repository:
-https://github.com/Krishna-Bhatt-369/AI-GAMES
-
-🍔 Omnifood
-
-A responsive food website built while learning front-end development.
-
-→ Repository:
-https://github.com/Krishna-Bhatt-369/omnifood-main
-
-🌐 Personal Portfolio
-
-My personal website — part portfolio, part journey, part personality.
-
-→ Repository:
-https://github.com/Krishna-Bhatt-369/Portfolio
-
-🧪 More experiments coming...
-
-This profile is still under construction.
-
-Just like the developer behind it.
-
-04 — BEYOND CODE
-🎮 Gaming
-🎧 Music
-🌙 Late-night thoughts
-💡 Random ideas
-📚 Learning
-
-When I'm not coding, you'll probably find me gaming, listening to music, watching something, or thinking about some completely unnecessary project idea.
-
-Technology is a big part of what I like.
-
-But it isn't everything.
-
-05 — THE JOURNEY
-
-I don't want my GitHub to look perfect.
-
-I want it to show progress.
-
-There will be bad code here.
-
-There will be unfinished projects.
-
-There will be stupid bugs.
-
-There will probably be things I'll look at six months from now and wonder:
-
-"Why the hell did I write this?"
-
-And that's okay.
-
-Because this isn't the final version.
-
-It's the record of getting there.
-
-06 — GITHUB ACTIVITY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Bhatt-369&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Bhatt-369&layout=compact&hide_border=true&theme=transparent" height="170"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Krishna-Bhatt-369&theme=transparent&hide_border=true" width="500"/> </div>
-07 — CONTRIBUTIONS
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Bhatt-369&theme=github-compact&hide_border=true&area=true" width="100%"/> </div>
-08 — CONNECT
-<div align="center"> <a href="https://github.com/Krishna-Bhatt-369"> <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/krishna-parshad-bhatt-a80402330/"> <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://krishna69.com.np"> <img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:kb9291972@gmail.com"> <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Still+learning.;Still+building.;Still+figuring+it+out." />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Bhatt-369&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=6" height="165" alt="Most used programming languages"/>
 
 <br><br>
 
-learning → building → breaking → fixing → repeating
+<img src="https://streak-stats.demolab.com?user=Krishna-Bhatt-369&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/> </div> ```
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Bhatt-369&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=the%20trail%20so%20far" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `06 / outside the code`
+
+</div>
+
+Coding is a big part of the journey.
+
+It isn't the whole thing.
+
+When I'm away from the editor, you'll probably find me:
+
+```text
+🎮  gaming
+🎧  listening to music
+🧪  experimenting with random ideas
+🌐  falling down technology rabbit holes
+🛠️  building something that probably didn't need to be built
+```
+
+I like projects that start with:
+
+> *"wait... can I actually make this?"*
+
+Sometimes the answer is no.
+
+Then I learn why.
+
+---
+
+<div align="center">
+
+### `07 / somewhere ahead`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111111,100:1c1c1c&text=still%20becoming.&fontColor=ffffff&fontSize=34&fontAlignY=50&animation=fadeIn" alt="Still becoming cinematic banner"/>
+
+<br><br>
+
+<sub>
+I don't know exactly where this goes yet.<br>
+I'm documenting the route while I find out.
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### `find me`
+
+<a href="https://github.com/Krishna-Bhatt-369">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/krishna-parshad-bhatt-a80402330/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://krishna69.com.np">
+<img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal website"/>
+</a>
+&nbsp;
+<a href="mailto:kb9291972@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<sub>© Krishna Parshad Bhatt · built in public, one commit at a time.</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2a2a2a,100:111111" alt="Cinematic footer"/>
+
+</div>
